@@ -30,7 +30,7 @@ class ViewController: UIViewController, LEDBoradSettingDelegate {
         }
         self.contentLabel.textColor = textColor
         self.view.backgroundColor = backgroundColor
-        // 완성
+        //완성
     }
 }
 
